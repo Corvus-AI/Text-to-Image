@@ -1,6 +1,4 @@
-# Text-to-Image
-Collection of Colab Notebooks that can be used for Text to Image
-
+# Text-to-Image Colab Notebooks Collection
 None of these notebooks are mine ! I have tried to credit the creater wherever possible . Please raise an Issue if your work hasnt been credited or if you want it to be removed from this list . The original notebooks have not been edited in any manner and credit the creator .
 
 - VQGAN+CLIP (z+quantize method with augs, English notebook) : https://colab.research.google.com/drive/1Zx38waUmaF3bk8ejjB21HzGiuAOnX4PD?usp=sharing
