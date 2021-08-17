@@ -7,3 +7,6 @@ None of these notebooks are mine ! I have tried to credit the creater wherever p
 - Sequential VQGAN + CLIP : https://colab.research.google.com/drive/1Ae6p3fdYVTj5qBiSTfyHcCHImGzSG5Dj?usp=sharing
 - Zoom animation and motion smoothing VQGAN+CLIP : https://colab.research.google.com/drive/1iLdYrjtEYLDs_KpLbZOUEVlZpEgY3E8b?usp=sharing
 - Semantic Style Transfer with CLIP+VQGAN : https://colab.research.google.com/drive/17AqhaKLZmmUA27aNSc6fJYMR9uypeIci?usp=sharing
+
+
+You can either use these links or you can open the notebook by using this chrome extension which opens notebooks in Colab directly : https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo
