@@ -1,5 +1,5 @@
 # Text-to-Image Colab Notebooks Collection
-None of these notebooks are mine ! I have tried to credit the creater wherever possible . Please raise an Issue if your work hasnt been credited or if you want it to be removed from this list . The original notebooks have not been edited in any manner and credit the creator .
+None of these notebooks are mine ! I have tried to credit the creators wherever possible . Please raise an Issue if your work hasnt been credited or if you want it to be removed from this list . The original notebooks have not been edited in any manner.
 Huge thanks to Katherine Crowson - https://github.com/crowsonkb and Adverb - https://twitter.com/advadnoun 
 
 - VQGAN+CLIP (z+quantize method with augs, English notebook) : https://colab.research.google.com/drive/1Zx38waUmaF3bk8ejjB21HzGiuAOnX4PD?usp=sharing
@@ -14,4 +14,4 @@ Huge thanks to Katherine Crowson - https://github.com/crowsonkb and Adverb - htt
   - https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/PixelDrawer.ipynb 
 
 
-You can either use these links or you can open the notebook by using this chrome extension which opens notebooks in Colab directly : https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo
+You can either use these links or you can open the notebook by using this chrome extension which opens notebooks in Colab directly (if the links go down)  : https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo
