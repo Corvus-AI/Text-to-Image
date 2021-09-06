@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Corvus-AI/Text-to-Image/HEAD)
+
 # Text-to-Image Colab Notebooks Collection
 None of these notebooks are mine ! I have tried to credit the creators wherever possible . Please raise an Issue if your work hasnt been credited or if you want it to be removed from this list . The original notebooks have not been edited in any manner.
 Huge thanks to Katherine Crowson - https://github.com/crowsonkb and Adverb - https://twitter.com/advadnoun 
