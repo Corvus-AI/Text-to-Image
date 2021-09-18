@@ -17,3 +17,7 @@ Huge thanks to Katherine Crowson - https://github.com/crowsonkb and Adverb - htt
 
 
 You can either use these links or you can open the notebook by using this chrome extension which opens notebooks in Colab directly (if the links go down)  : https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo
+
+
+Thanks to u/Wiskkey \
+Generative Tools : https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/edit
